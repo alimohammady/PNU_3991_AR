@@ -19,7 +19,7 @@
 - [فرم رزومه و سوابق کاری من](https://alimohammady.github.io/cv1/) 
 - [فرم انگیزه نامه من](https://github.com/alimohammady/cv1/blob/main/sop.pdf)
 - [مدرک جاوا اسکریپ من](https://github.com/alimohammady/cv1/blob/main/Js.jpg)
-
+- [پروژه کار با لاتک ](https://github.com/alimohammady/PNU_3991_AR/blob/main/ali%20-%20mohammadi%20-%20latext.zip)
 ------------------
 
 
