@@ -11,10 +11,20 @@
 <p dir="rtl">دانشگاه پیام نور تهران شمال</p>
 <hr>
 
-# پروژه و کارهای کارشناسی
+# پروژه پایانی
+
+
 
 ## ✏
 
+ 
+- [فایل پروژه انجام شده در محیط برنامه نویسی B4a](https://github.com/alimohammady/PNU_3991_AR/blob/9c73c7896c5df19a637d609ab62c9228f25e1bd7/Project%20Source.rar)
+- [فایل pdf گزارش](https://github.com/alimohammady/PNU_3991_AR/blob/9c73c7896c5df19a637d609ab62c9228f25e1bd7/Final%20project%20Report.pdf)
+- [فایل ورد گزارش](https://github.com/alimohammady/PNU_3991_AR/blob/9c73c7896c5df19a637d609ab62c9228f25e1bd7/Final%20project%20Report.docx)
+- [ویدیو توضیح قسمت توسعه و پیاده سازی](https://www.aparat.com/v/eKPCU)
+
+
+کارهای متفرقه دیگر در ترم گذشته 
 - [درس تعامل انسان و کامپیوتر ](https://github.com/alimohammady/cv1)
 - [PNU_3991_Ar](https://github.com/alimohammady/PNU_3991_AR)
 - [فرم رزومه و سوابق کاری من](https://alimohammady.github.io/cv1/) 
